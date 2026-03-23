@@ -1,0 +1,6 @@
+faster-whisper
+fastapi
+uvicorn[standard]
+websockets
+numpy
+ollama
